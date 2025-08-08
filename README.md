@@ -2,6 +2,7 @@
 
 This project analyzes historical Brent oil prices to detect significant shifts in market behavior using Bayesian modeling with PyMC. It features an interactive React dashboard to visualize price trends, change points, and correlated geopolitical/economic events, providing actionable insights for energy market stakeholders.
 The dashboard is accessible locally at: http://localhost:5173
+
 ✨ Features
 
 Bayesian Change Point Detection: Identifies shifts in price behavior (mean and volatility) using PyMC.
