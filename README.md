@@ -65,6 +65,7 @@ Navigate to the dashboard:
 Install Node.js dependencies:
 
 ```npm install ```
+
 ▶️ Running the Application
 1. Start the Backend
   In the backend/ directory, run:
